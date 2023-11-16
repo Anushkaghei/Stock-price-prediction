@@ -1,3 +1,8 @@
+# Project Proposal  
+Departing from traditional supervised learning, our project leverages reinforcement learning, enabling the model to interact with the stock market environment and learn optimal strategies for maximising cumulative rewards. 
+
+
+
 ### MDP for Stock Price Prediction:
 
 Agent – An Agent A that works in Environment E  
